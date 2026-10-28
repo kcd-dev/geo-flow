@@ -1,6 +1,6 @@
 # geo-flow
 
-本地检出来自 `git@github.com:kcd-dev/geo-flow.git`，`origin` 已移除。仓库许可证是 Apache-2.0，见 [LICENSE](LICENSE)。
+仓库地址：<https://github.com/kcd-dev/geo-flow>。许可证是 Apache-2.0，见 [LICENSE](LICENSE)。
 
 这次提交只增加本说明。GEOInflow 的程序源码在另一个仓库：<https://github.com/yaojingang/GEOInflow>。
 
